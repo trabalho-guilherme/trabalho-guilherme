@@ -1,8 +1,6 @@
 ### Olá! Eu sou o Guilherme Henrique
 
-Atualmente estou a procura de um emprego
-
-Estudando Engenharia de software
+### Estudando Engenharia de software
 
 <div align="center">
   <a href="https://github.com/trabalho-guilherme">
